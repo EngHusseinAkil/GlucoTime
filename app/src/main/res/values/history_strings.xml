@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_history">Search history</string>
+    <string name="one_month">1 month</string>
+    <string name="two_months">2 months</string>
+    <string name="three_months">3 months</string>
+    <string name="all_period">All</string>
+    <string name="reading_count">%1$d readings</string>
+    <string name="showing_count">Showing: %1$d</string>
+    <string name="edit_reading">Edit reading</string>
+    <string name="save_changes">Save changes</string>
+    <string name="reading_date">Date</string>
+    <string name="reading_time">Time</string>
+    <string name="future_reading_date">A reading cannot be recorded for a future date</string>
+    <string name="future_reading_time">A reading cannot be recorded in the future</string>
+    <string name="delete_reading_title">Delete reading?</string>
+    <string name="delete_reading_message">Delete this reading?</string>
+    <string name="add_todays_reading">Add today\'s reading</string>
+    <string name="add_reading_for_date">Add reading for %1$s</string>
+    <string name="readings_for_date">Readings for %1$s</string>
+    <string name="save_reading">Save reading</string>
+    <string name="change_date">Change date</string>
+    <string name="search_by_date">Search by date</string>
+    <string name="clear_date">Clear date</string>
+    <string name="date_reading_count">Readings on %1$s: %2$d</string>
+    <string name="no_readings_on_date">No readings on this date</string>
+</resources>

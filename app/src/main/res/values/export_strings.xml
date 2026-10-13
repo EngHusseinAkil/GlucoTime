@@ -1,0 +1,5 @@
+<resources>
+    <string name="export_pdf">Export to PDF</string>
+    <string name="history_pdf_exported">PDF exported successfully</string>
+    <string name="history_pdf_export_failed">Could not export PDF</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="contact_unavailable">No compatible app is available</string>
+    <string name="export_data_body">Choose a format to save this user\'s glucose readings.</string>
+    <string name="call">Call</string>
+    <string name="send_email">Email</string>
+    <string name="copy_phone">Copy phone number</string>
+    <string name="copy_email">Copy email address</string>
+    <string name="support_qr_body">If you enjoy GlucoTime and want to support its development, scan the QR code below via Whish Money.</string>
+    <string name="support_scan_label">Scan to support</string>
+</resources>

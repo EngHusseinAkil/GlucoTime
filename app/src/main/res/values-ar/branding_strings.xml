@@ -1,0 +1,10 @@
+<resources>
+    <string name="brand_tagline">تابع فحوصات السكر\nوتذكّر مواعيدها</string>
+    <string name="brand_welcome">مرحباً بك في</string>
+    <string name="onboarding_private_title">آمن</string>
+    <string name="onboarding_private_body">بياناتك محفوظة على جهازك فقط</string>
+    <string name="onboarding_reminders_title">تذكيرات ذكية</string>
+    <string name="onboarding_reminders_body">لا تفوّت أي موعد فحص</string>
+    <string name="onboarding_insights_title">تقارير واضحة</string>
+    <string name="onboarding_insights_body">تابع تطور فحوصاتك بسهولة</string>
+</resources>

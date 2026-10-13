@@ -1,0 +1,10 @@
+<resources>
+    <string name="contact_unavailable">لا يوجد تطبيق متوافق متاح</string>
+    <string name="export_data_body">اختر الصيغة لحفظ فحوصات السكر الخاصة بهذا المستخدم.</string>
+    <string name="call">اتصال</string>
+    <string name="send_email">بريد إلكتروني</string>
+    <string name="copy_phone">نسخ رقم الهاتف</string>
+    <string name="copy_email">نسخ البريد الإلكتروني</string>
+    <string name="support_qr_body">إذا أعجبك التطبيق وترغب في دعم تطويره، امسح رمز QR أدناه عبر Whish Money.</string>
+    <string name="support_scan_label">امسح الرمز للدعم</string>
+</resources>

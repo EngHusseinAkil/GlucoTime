@@ -1,0 +1,21 @@
+<resources>
+    <string name="data_analysis">Data analysis</string>
+    <string name="analysis_7_days">7 days</string>
+    <string name="analysis_1_month">1 month</string>
+    <string name="analysis_3_months">3 months</string>
+    <string name="analysis_all">All</string>
+    <string name="analysis_total">Total readings</string>
+    <string name="analysis_average">Average</string>
+    <string name="analysis_min">Minimum recorded</string>
+    <string name="analysis_max">Maximum recorded</string>
+    <string name="analysis_trend">Reading trend</string>
+    <string name="analysis_types">Measurement types</string>
+    <string name="analysis_activity">Recording activity</string>
+    <string name="analysis_days">Days with readings</string>
+    <string name="analysis_daily_average">Average readings per day</string>
+    <string name="analysis_empty">Not enough data to analyze yet</string>
+    <string name="analysis_disclaimer">This section summarizes recorded data and does not provide medical diagnosis.</string>
+    <string name="invalid_glucose_value">Please enter a valid glucose reading</string>
+    <string name="glucose_max_typing">The maximum allowed value is 600 mg/dL</string>
+    <string name="glucose_max_save">The glucose reading cannot exceed 600 mg/dL</string>
+</resources>

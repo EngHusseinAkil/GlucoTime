@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_history">البحث في السجل</string>
+    <string name="one_month">شهر</string>
+    <string name="two_months">شهران</string>
+    <string name="three_months">3 أشهر</string>
+    <string name="all_period">الكل</string>
+    <string name="reading_count">عدد الفحوصات: %1$d</string>
+    <string name="showing_count">النتائج الظاهرة: %1$d</string>
+    <string name="edit_reading">تعديل الفحص</string>
+    <string name="save_changes">حفظ التعديلات</string>
+    <string name="reading_date">التاريخ</string>
+    <string name="reading_time">الوقت</string>
+    <string name="future_reading_date">لا يمكن تسجيل فحص بتاريخ مستقبلي</string>
+    <string name="future_reading_time">لا يمكن تسجيل فحص في وقت مستقبلي</string>
+    <string name="delete_reading_title">حذف الفحص؟</string>
+    <string name="delete_reading_message">هل تريد حذف هذا الفحص؟</string>
+    <string name="add_todays_reading">إدخال فحص اليوم</string>
+    <string name="add_reading_for_date">إدخال فحص %1$s</string>
+    <string name="readings_for_date">فحوصات %1$s</string>
+    <string name="save_reading">حفظ الفحص</string>
+    <string name="change_date">تغيير التاريخ</string>
+    <string name="search_by_date">البحث بالتاريخ</string>
+    <string name="clear_date">مسح التاريخ</string>
+    <string name="date_reading_count">عدد الفحوصات في %1$s: %2$d</string>
+    <string name="no_readings_on_date">لا توجد فحوصات في هذا التاريخ</string>
+</resources>

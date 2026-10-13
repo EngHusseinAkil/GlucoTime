@@ -1,0 +1,53 @@
+<resources>
+    <string name="tutorial_add_current_reading">ابدأ بإضافة فحص جديد.
+أدخل نتيجة فحص السكر. يمكنك إضافة ملاحظة اختيارية مع الفحص وتعديلها لاحقاً من السجل.</string>
+    <string name="tutorial_add_past_reading">يمكنك أيضاً إضافة فحص لوقت أو تاريخ سابق.
+اختر التاريخ والوقت الذي تم فيه الفحص، ويمكنك إضافة ملاحظة إذا أردت.</string>
+    <string name="tutorial_history">في السجل يمكنك مراجعة جميع الفحوصات السابقة، والبحث حسب التاريخ، وتعديل أو حذف أي فحص.
+يمكنك اختيار تاريخ محدد للبحث عن فحوصات ذلك اليوم.</string>
+    <string name="tutorial_history_edit">يمكنك تعديل نتيجة الفحص أو التاريخ أو الوقت أو الملاحظة.</string>
+    <string name="tutorial_history_delete">وإذا تم إدخال فحص بالخطأ، يمكنك حذفه من السجل.</string>
+    <string name="tutorial_add_reminder">من هنا يمكنك إنشاء تذكير بموعد فحص السكر.
+اختر اسم التذكير، الوقت، والأيام التي تريد أن يعمل فيها.</string>
+    <string name="tutorial_settings_users">المستخدمون
+
+يمكنك إنشاء أكثر من مستخدم على نفس الهاتف.
+لكل مستخدم فحوصاته، تذكيراته، سجله، وتحليل بياناته بشكل مستقل.</string>
+    <string name="tutorial_settings_reminders">التذكيرات
+
+يمكنك إدارة جميع التذكيرات من هنا، وإضافة تذكير جديد أو تعديل أو تعطيل التذكيرات الموجودة.</string>
+    <string name="tutorial_settings_appearance">المظهر
+
+يمكنك اختيار الوضع الفاتح أو الوضع الداكن أو استخدام إعداد الجهاز تلقائياً.</string>
+    <string name="tutorial_settings_language">اللغة
+
+يمكنك تغيير لغة التطبيق بين العربية والإنجليزية في أي وقت.</string>
+    <string name="tutorial_settings_export">تصدير البيانات
+
+يمكنك تصدير بيانات المستخدم الحالي إلى ملف Excel أو PDF للاحتفاظ بها أو مشاركتها.</string>
+    <string name="tutorial_settings_analysis">تحليل البيانات
+
+يمكنك مراجعة ملخص بياناتك مثل عدد الفحوصات، المتوسط، أقل وأعلى قراءة، والاتجاهات حسب الفترة.
+هذا القسم يعرض ملخصاً للبيانات المسجلة ولا يقدم تشخيصاً طبياً.</string>
+    <string name="tutorial_settings_app_tutorial">دليل استخدام التطبيق
+
+يمكنك إعادة مشاهدة هذا الدليل في أي وقت إذا أردت مراجعة طريقة استخدام وظائف التطبيق.</string>
+    <string name="tutorial_settings_support">دعم التطبيق
+
+موعد السكر مجاني بالكامل، وإذا كان التطبيق مفيداً لك يمكنك دعم استمرار تطويره بشكل اختياري عبر Whish Money.
+يعرض قسم الدعم رمز QR وخيارات الدعم. لا يتطلب هذا الشرح دفعاً أو مسح رمز QR.</string>
+    <string name="tutorial_settings_developer_services">هل تحتاج تطبيقاً أو موقعاً؟
+
+يمكنك التواصل مع المطوّر إذا كنت تحتاج تطبيق Android أو موقعاً إلكترونياً أو برنامجاً مخصصاً.</string>
+    <string name="tutorial_settings_contact_developer">تواصل مع المطوّر
+
+يمكنك التواصل مع المطوّر عبر الهاتف أو WhatsApp أو البريد الإلكتروني.
+
+المطوّر: حسين نبيل عقيل
+الهاتف: +961 71 693 094
+البريد الإلكتروني: husseinakilpc@gmail.com</string>
+    <string name="tutorial_settings_about">حول التطبيق
+
+يمكنك معرفة معلومات موعد السكر، الإصدار، ومعلومات المطوّر من هنا.</string>
+    <string name="tutorial_got_it">فهمت</string>
+</resources>

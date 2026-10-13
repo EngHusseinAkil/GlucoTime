@@ -1,0 +1,5 @@
+<resources>
+    <string name="export_pdf">تصدير إلى PDF</string>
+    <string name="history_pdf_exported">تم تصدير PDF بنجاح</string>
+    <string name="history_pdf_export_failed">تعذر تصدير PDF</string>
+</resources>

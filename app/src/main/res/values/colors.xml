@@ -1,0 +1,7 @@
+<resources>
+    <color name="splash_background">#031024</color>
+    <color name="glucotime_navy">#031024</color>
+    <color name="glucotime_royal">#1E3A8A</color>
+    <color name="glucotime_electric">#00B4D8</color>
+    <color name="glucotime_coral">#FF6F61</color>
+</resources>

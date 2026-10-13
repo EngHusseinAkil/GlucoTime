@@ -1,0 +1,5 @@
+<resources>
+    <string name="exact_alarm_title">السماح بالمنبهات الدقيقة</string>
+    <string name="exact_alarm_message">يحتاج موعد السكر إلى هذه الصلاحية لتشغيل التذكير في الوقت المحدد. بدونها قد يؤخر Android التذكير.</string>
+    <string name="exact_alarm_action">فتح إعدادات المنبهات</string>
+</resources>

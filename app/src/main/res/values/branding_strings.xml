@@ -1,0 +1,10 @@
+<resources>
+    <string name="brand_tagline">Track your glucose levels\nand get reminded on time</string>
+    <string name="brand_welcome">Welcome to</string>
+    <string name="onboarding_private_title">Private &amp; secure</string>
+    <string name="onboarding_private_body">Your data stays on your device</string>
+    <string name="onboarding_reminders_title">Smart reminders</string>
+    <string name="onboarding_reminders_body">Never miss a check</string>
+    <string name="onboarding_insights_title">Clear insights</string>
+    <string name="onboarding_insights_body">Track your progress with ease</string>
+</resources>

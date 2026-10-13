@@ -1,0 +1,5 @@
+<resources>
+    <string name="exact_alarm_title">Allow precise alarms</string>
+    <string name="exact_alarm_message">GlucoTime needs this permission to trigger reminders at the scheduled time. Without it, Android may delay a reminder.</string>
+    <string name="exact_alarm_action">Open alarm settings</string>
+</resources>

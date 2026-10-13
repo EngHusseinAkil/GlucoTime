@@ -1,0 +1,21 @@
+<resources>
+    <string name="data_analysis">تحليل البيانات</string>
+    <string name="analysis_7_days">7 أيام</string>
+    <string name="analysis_1_month">شهر</string>
+    <string name="analysis_3_months">3 أشهر</string>
+    <string name="analysis_all">الكل</string>
+    <string name="analysis_total">عدد الفحوصات</string>
+    <string name="analysis_average">المتوسط</string>
+    <string name="analysis_min">أقل قراءة مسجلة</string>
+    <string name="analysis_max">أعلى قراءة مسجلة</string>
+    <string name="analysis_trend">اتجاه القراءات</string>
+    <string name="analysis_types">أنواع الفحوصات</string>
+    <string name="analysis_activity">نشاط التسجيل</string>
+    <string name="analysis_days">عدد أيام التسجيل</string>
+    <string name="analysis_daily_average">متوسط عدد الفحوصات يومياً</string>
+    <string name="analysis_empty">لا توجد بيانات كافية للتحليل بعد</string>
+    <string name="analysis_disclaimer">يعرض هذا القسم ملخصاً للبيانات المسجلة ولا يقدم تشخيصاً طبياً.</string>
+    <string name="invalid_glucose_value">يرجى إدخال نتيجة فحص صحيحة</string>
+    <string name="glucose_max_typing">الحد الأقصى المسموح به هو 600 mg/dL</string>
+    <string name="glucose_max_save">لا يمكن أن تتجاوز نتيجة الفحص 600 mg/dL</string>
+</resources>

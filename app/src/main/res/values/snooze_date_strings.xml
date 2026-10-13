@@ -1,0 +1,3 @@
+<resources>
+    <string name="future_reading_datetime">A reading cannot be recorded in the future</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="users">المستخدمون</string>
+    <string name="add_user">إضافة مستخدم</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="edit_name">تعديل الاسم</string>
+    <string name="delete_user">حذف المستخدم</string>
+    <string name="delete_user_message">سيتم حذف جميع الفحوصات والملاحظات والتذكيرات الخاصة بهذا المستخدم نهائياً. هل تريد المتابعة؟</string>
+</resources>

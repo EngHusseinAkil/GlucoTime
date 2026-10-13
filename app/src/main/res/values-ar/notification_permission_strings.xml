@@ -1,0 +1,5 @@
+<resources>
+    <string name="notification_permission_title">السماح بالتنبيهات</string>
+    <string name="notification_permission_message">يحتاج موعد السكر إلى صلاحية التنبيهات لإظهار معلومات المنبّه وأزرار التحكم.</string>
+    <string name="notification_permission_action">السماح بالتنبيهات</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="users">Users</string>
+    <string name="add_user">Add user</string>
+    <string name="user_name">User name</string>
+    <string name="edit_name">Edit name</string>
+    <string name="delete_user">Delete user</string>
+    <string name="delete_user_message">All readings, notes, and reminders for this user will be permanently deleted. Continue?</string>
+</resources>

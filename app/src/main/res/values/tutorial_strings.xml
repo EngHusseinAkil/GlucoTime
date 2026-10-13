@@ -1,0 +1,53 @@
+<resources>
+    <string name="tutorial_add_current_reading">Start by adding a new reading.
+Enter your glucose result. You can also add an optional note with the reading and edit it later from History.</string>
+    <string name="tutorial_add_past_reading">You can also add a reading for a previous date or time.
+Choose when the reading was taken, and add a note if you want.</string>
+    <string name="tutorial_history">In History you can review previous readings, search by date, and edit or delete any reading.
+You can choose a specific date to search for readings from that day.</string>
+    <string name="tutorial_history_edit">You can edit the reading value, date, time, or note.</string>
+    <string name="tutorial_history_delete">If a reading was added by mistake, you can delete it from History.</string>
+    <string name="tutorial_add_reminder">Here you can create a glucose-check reminder.
+Choose the reminder name, time, and the days when it should run.</string>
+    <string name="tutorial_settings_users">Users / Profiles
+
+You can create multiple users on the same phone.
+Each user has independent readings, reminders, history, and data analysis.</string>
+    <string name="tutorial_settings_reminders">Reminders
+
+You can manage all reminders here, add a new reminder, or edit and disable existing reminders.</string>
+    <string name="tutorial_settings_appearance">Appearance
+
+You can choose light mode, dark mode, or use the device setting automatically.</string>
+    <string name="tutorial_settings_language">Language
+
+You can change the app language between Arabic and English at any time.</string>
+    <string name="tutorial_settings_export">Export data
+
+You can export the current user\'s data to an Excel or PDF file to keep or share.</string>
+    <string name="tutorial_settings_analysis">Data Analysis
+
+You can review your data summary, including reading count, average, lowest and highest reading, and trends by period.
+This section summarizes recorded data and does not provide a medical diagnosis.</string>
+    <string name="tutorial_settings_app_tutorial">App tutorial
+
+You can replay this tutorial at any time if you want to review how the app features work.</string>
+    <string name="tutorial_settings_support">Support
+
+GlucoTime is completely free, and you can optionally support its development through Whish Money.
+The support section shows the QR code and support options. No payment or QR scan is required for this tutorial.</string>
+    <string name="tutorial_settings_developer_services">Need an app or website?
+
+You can contact the developer if you need an Android app, website, or custom software.</string>
+    <string name="tutorial_settings_contact_developer">Contact developer
+
+You can contact the developer by phone, WhatsApp, or email.
+
+Developer: Hussein Nabil Akil
+Phone: +961 71 693 094
+Email: husseinakilpc@gmail.com</string>
+    <string name="tutorial_settings_about">About
+
+You can view information about GlucoTime, the version, and developer details here.</string>
+    <string name="tutorial_got_it">Got it</string>
+</resources>
